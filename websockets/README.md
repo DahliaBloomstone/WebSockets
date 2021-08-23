@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+How to go real time with node and react:
+https://www.npmjs.com/package/react-use-websocket
+
+https://socket.io/get-started/chat
+
+https://www.merixstudio.com/blog/real-time-communication-websockets-nodejs/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
